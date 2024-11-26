@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\.Net Project\\FoodApp\\Vetical Slicing\\FoodApp.Api\\wwwroot\\Files\\Images\\3d240468-870e-4b53-b30f-4865bb75c4d0.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\3d240468-870e-4b53-b30f-4865bb75c4d0.jpg"
+    },
+    {
+      "Id": "E:\\.Net Project\\FoodApp\\Vetical Slicing\\FoodApp.Api\\wwwroot\\Files\\Images\\3e208772-bd85-4eef-8220-859b2229b27a.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\3e208772-bd85-4eef-8220-859b2229b27a.jpg"
+    },
+    {
+      "Id": "E:\\.Net Project\\FoodApp\\Vetical Slicing\\FoodApp.Api\\wwwroot\\Files\\Images\\401904e9-9dc4-4bc5-8215-69c3f6129a7a.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\401904e9-9dc4-4bc5-8215-69c3f6129a7a.jpg"
+    },
+    {
+      "Id": "E:\\.Net Project\\FoodApp\\Vetical Slicing\\FoodApp.Api\\wwwroot\\Files\\Images\\6642e709-cbdb-4d03-b512-61631c0b596d.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\6642e709-cbdb-4d03-b512-61631c0b596d.jpg"
+    },
+    {
+      "Id": "E:\\.Net Project\\FoodApp\\Vetical Slicing\\FoodApp.Api\\wwwroot\\Files\\Images\\9637ac72-4448-49d4-8a8a-3a28c29d317b.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\9637ac72-4448-49d4-8a8a-3a28c29d317b.jpg"
+    },
+    {
+      "Id": "E:\\.Net Project\\FoodApp\\Vetical Slicing\\FoodApp.Api\\wwwroot\\Files\\Images\\ebdb3d4c-24cb-4f5b-91e7-49ee27963ebb.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\ebdb3d4c-24cb-4f5b-91e7-49ee27963ebb.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FoodApp.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FoodApp.Api.props",
+      "PackagePath": "build\\FoodApp.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FoodApp.Api.props",
+      "PackagePath": "buildMultiTargeting\\FoodApp.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FoodApp.Api.props",
+      "PackagePath": "buildTransitive\\FoodApp.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
